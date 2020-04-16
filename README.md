@@ -2,6 +2,8 @@
 Car monitoring and tracking tools to be run from a Raspberry Pi (or other small linux computer)
 
 # Planned Modules
+### Display
+  Connect a display to the Pi's HDMI and have an interractive touch screen for your car. Maybe Lovelace or something for this UI, currently undecided...
 ### GPS
   Track car location, handy for a handful of use cases.
 ### OBD2
