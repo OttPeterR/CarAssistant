@@ -1,0 +1,13 @@
+astroid==2.4.0
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+obd==0.7.1
+Pint==0.7.2
+pylint==2.5.0
+pyserial==3.4
+Rx==3.1.0
+six==1.14.0
+toml==0.10.0
+typed-ast==1.4.1
+wrapt==1.12.1
