@@ -6,6 +6,8 @@ Car monitoring and tracking tools to be run from a Raspberry Pi (or other small 
   Connect a display to the Pi's HDMI and have an interractive touch screen for your car. Maybe Lovelace or something for this UI, currently undecided...
 ### GPS
   Track car location, handy for a handful of use cases.
+### ZWave or ZigBee Emitter
+  Send out a beacon to know when the car is actually very close to home to trigger a garage door or other home automations.
 ### OBD2
   Get car metrics such as speed, fuel usage, RPM, throttle, temperture, gear selection, manifold pressure, other fun stuff for those tuners out there. (Even though you probably have a good reader already)
 ### Battery
