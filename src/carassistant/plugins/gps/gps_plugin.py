@@ -29,8 +29,10 @@ class GPS_Plugin:
             self.demo_long += (random.random() * 2 - 1) * 0.05
             demo_data = {
                 "lat": self.demo_lat,
-                "long": self.demo_long,
+                "lon": self.demo_long,
                 "time": time.time(),
+                "alt": random.random()*100,
+                "speed": random.random()*15
             }
             return demo_data
         # not demo mode:
